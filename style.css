@@ -1,0 +1,65 @@
+body{
+	background-image: linear-gradient(to right, #c01fff, #ff1fc0)
+}
+h1 , div {
+	text-align: center;
+	font-family: 'Bonbon', cursive;
+	color: #2e1fa1;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+img.header{
+	width: 500px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+}
+img.left{
+	float: left;
+	margin:5px;
+}
+img.right{
+	float: right;
+	margin: 5px;
+}
+button {
+  background: cornflowerblue;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  font-family: 'Lato';
+  margin: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+}
+.buttonUtama {
+	color: white;
+	padding: 24px 32px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25%;
+	margin-bottom: auto;
+}
+.buttonUtama1 {
+	color: white;
+	padding: 24px 32px;
+	display: block;
+	margin-left: 20px;
+	margin-right: 60px;
+	margin-top: 20%;
+	margin-bottom: auto;
+}
+a {
+	text-align: center;
+	font-family: 'Bonbon', cursive;
+	color: #2e1fa1;
+	font-weight: bold;
+	padding: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
